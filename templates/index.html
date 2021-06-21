@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <style>
+        #container{
+            text-align: center
+        }
+    </style>
+</head>
+<body>
+    <form action="{{ url_for('home') }}" method="POST">
+        <div id = "container">
+            <textarea name="paragraph_text" cols="50" rows="10"></textarea>
+            <input type="submit" value="Extract">
+        </div>
+    </form>>
+</body>
+</html>

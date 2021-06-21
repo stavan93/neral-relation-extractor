@@ -1,0 +1,142 @@
+[
+    {
+        "arg1": "Bill Gates",
+        "arg2": "American",
+        "label": 0
+    },
+    {
+        "arg1": "Bill Gates",
+        "arg2": "Microsoft Corporation",
+        "label": 0
+    },
+    {
+        "arg1": "Bill Gates",
+        "arg2": "Microsoft",
+        "label": 0
+    },
+    {
+        "arg1": "Bill Gates",
+        "arg2": "Gates",
+        "label": 0
+    },
+    {
+        "arg1": "Bill Gates",
+        "arg2": "May 2014",
+        "label": 0
+    },
+    {
+        "arg1": "Bill Gates",
+        "arg2": "1970s",
+        "label": 0
+    },
+    {
+        "arg1": "Bill Gates",
+        "arg2": "1980s",
+        "label": 0
+    },
+    {
+        "arg1": "American",
+        "arg2": "Microsoft Corporation",
+        "label": 0
+    },
+    {
+        "arg1": "American",
+        "arg2": "Microsoft",
+        "label": 0
+    },
+    {
+        "arg1": "American",
+        "arg2": "Gates",
+        "label": 0
+    },
+    {
+        "arg1": "American",
+        "arg2": "May 2014",
+        "label": 0
+    },
+    {
+        "arg1": "American",
+        "arg2": "1970s",
+        "label": 0
+    },
+    {
+        "arg1": "American",
+        "arg2": "1980s",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft Corporation",
+        "arg2": "Microsoft",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft Corporation",
+        "arg2": "Gates",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft Corporation",
+        "arg2": "May 2014",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft Corporation",
+        "arg2": "1970s",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft Corporation",
+        "arg2": "1980s",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft",
+        "arg2": "Gates",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft",
+        "arg2": "May 2014",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft",
+        "arg2": "1970s",
+        "label": 0
+    },
+    {
+        "arg1": "Microsoft",
+        "arg2": "1980s",
+        "label": 0
+    },
+    {
+        "arg1": "Gates",
+        "arg2": "May 2014",
+        "label": 0
+    },
+    {
+        "arg1": "Gates",
+        "arg2": "1970s",
+        "label": 0
+    },
+    {
+        "arg1": "Gates",
+        "arg2": "1980s",
+        "label": 0
+    },
+    {
+        "arg1": "May 2014",
+        "arg2": "1970s",
+        "label": 0
+    },
+    {
+        "arg1": "May 2014",
+        "arg2": "1980s",
+        "label": 0
+    },
+    {
+        "arg1": "1970s",
+        "arg2": "1980s",
+        "label": 0
+    }
+]

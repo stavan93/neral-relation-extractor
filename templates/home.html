@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+    <table class="centered thick-border">
+        <tr>
+                <th>Entity 1</th>
+                <th>Entity 2</th>
+                <th>Relation</th>
+        </tr>
+        {% for d in data %}
+                <tr>
+                        <td>{{ d["arg1"] }}</td>
+                        <td>{{ d["arg2"] }}</td>
+                        <td>{{ d["label"] }}</td>
+                </tr>
+        {% endfor %}
+</table>
+</body>
+</html>
